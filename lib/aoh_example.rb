@@ -24,7 +24,10 @@ def aoh_lookup(aoh, i, k)
   aoh[i][k]
 end
 
-
+def aoh_update(aoh, i, k, val)
+  aoh[i][k] = val
+  aoh
+end
 
 
 
