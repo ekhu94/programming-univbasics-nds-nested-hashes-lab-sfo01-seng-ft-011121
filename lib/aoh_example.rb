@@ -17,8 +17,7 @@ def assembled_aoh
 end
 
 def literal_aoh
-  hash = assembled_aoh
-  hash.sort
+  assembled_aoh.sort
 end
 
 
