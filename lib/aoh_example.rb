@@ -20,7 +20,7 @@ def literal_aoh
   assembled_aoh
 end
 
-def 
+def aoh_lookup()
 
 
 
