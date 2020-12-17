@@ -20,7 +20,9 @@ def literal_aoh
   assembled_aoh
 end
 
-def aoh_lookup()
+def aoh_lookup(aoh, i, k)
+  aoh[i][k]
+end
 
 
 
