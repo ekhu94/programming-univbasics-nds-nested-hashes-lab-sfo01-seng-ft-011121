@@ -16,7 +16,9 @@ def assembled_aoh
   ]
 end
 
-def 
+def literal_aoh
+  
+end
 
 
 
